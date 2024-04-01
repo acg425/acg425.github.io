@@ -1,8 +1,8 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Junior
+Lehigh University | Class of 2025
+Majors: Finance & Business Analytics
 
 <!-- Upload your own photo and change the path -->
 
