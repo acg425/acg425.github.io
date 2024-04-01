@@ -48,15 +48,21 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
+Majoring in finance, I am an aspiring financial analyst and a small business owner. In addition to taking finance classes, I am currently taking business analytics courses to earn a double major status.
 
-Sell yourself!
+Outside of college, I love volunteering in my local community. This provides me with an opportunity to give back to those in need, which I find to be a very rewarding experience.
+
+As a leader, problem-solver, and creative thinker at heart, during breaks, I love modifying my car, looking for ways to grow my business, and learning new concepts/skills in various fields.
+
+Currently, I am seeking opportunities that will allow me to implement my financial skills in a fast-paced and dynamic work environment. Specific areas of interest include investment banking, wealth management, and financial analytics.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Outside of my academic life, I love spending time oudoors. Specifically, modifying cars, biking, rafting, and going on hiking trips.
+
+Additionally, I find it extremely rewarding working as a firefighter in my local township.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
