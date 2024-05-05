@@ -14,7 +14,7 @@ Minor: Data Science
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language Processing 10-Ks to Identify Risks](midterm_summary)**_
+_**[Natural language Processing 10-Ks to Identify Risks](report.md)**_
 
 <div style="text-align: center;">
     <img src="images/sentielogo.jpeg?raw=true" width="500" height="400" style="margin: 0 auto; display: block;" />
