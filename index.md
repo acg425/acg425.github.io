@@ -29,7 +29,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Some personal project](https://sites.google.com/view/nphspaintball/home?fbclid=PAAaYbbNDtnbAcYM8HGnGCwAnzKrYVkiA4mvU7E8Oi0CpyzoYNrJmxOvBF6IY)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
