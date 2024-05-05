@@ -18,15 +18,8 @@ _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-[Link to Notebook]([https://raw.githubusercontent.com/username/repository/master/path/to/notebook.ipynb](https://raw.githubusercontent.com/LeDataSciFi/asgn-05-acg425/main/output/report.ipynb?token=GHSAT0AAAAAACP7HFIPBXMVTEGHZKZLN6CYZRX4EVA))
+<iframe src="https://nbviewer.jupyter.org/url/path/to/notebook.ipynb" width="100%" height="600"></iframe>
 
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
