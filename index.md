@@ -1,10 +1,10 @@
 ## About Me
-
+---
 Junior
-
-Lehigh University | Class of 2025
+Lehigh University / Class of 2025
 
 Majors: Finance & Business Analytics
+Minor: Data Science
 
 <!-- Upload your own photo and change the path -->
 
