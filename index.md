@@ -31,7 +31,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 _**[Success in Creating the North Penn High School Paintball Club](https://sites.google.com/view/nphspaintball/home?fbclid=PAAaYbbNDtnbAcYM8HGnGCwAnzKrYVkiA4mvU7E8Oi0CpyzoYNrJmxOvBF6IY)**_
 
-<img src="images/theboylogo.png?raw=true"/>
+<img src="images/theboylogo.png?raw=true" width="200" height="200" />
 
 Assisted in the formation of the North Penn High School (NPHS) Paintball Club. This task involved using the business communication skills I learned at Lehigh University to provide the student reaching out with professional documents and graphical designs. These documents included several strategically thought-out and business-like proposals aimed at persuading the school board to accept the creation of the paintball club.
 
