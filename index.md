@@ -26,7 +26,7 @@ You can show off your midterm analysis by moving the report components and outpu
 _**[Team Project - Predicting Fraudulent Financial Transactions]([https://donbowen.github.io/teamproject/](https://nicoschuster01-finalproject-377-dashboard-ujqokl.streamlit.app/))**_
 
 <div style="text-align: center;">
-    <img src="images/fraudielogo.jpeg?raw=true" width="300" height="300" style="margin: 0 auto; display: block;" />
+    <img src="images/fraudielogo.jpeg?raw=true" width="300" height="200" style="margin: 0 auto; display: block;" />
 </div>
 
 For this project, we create a predictive model to detect fraud in financial service payments and transfers. Currently, there are many hurdles when it comes to fraud detection; many of the predictors are fallible and don't correctly predict whether a payment is actually fraudelent or not. The goal of this project will be to train several different machine learning models to detect fraud given the attributes: "payment_type", "amount", "nameOrig", "oldBalanceOrig", "namedDest", "isFlaggedFraud", "isFraud", among others.
