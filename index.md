@@ -23,7 +23,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Team Project - Predicting Fraudulent Financial Transactions]([https://donbowen.github.io/teamproject/](https://nicoschuster01-finalproject-377-dashboard-ujqokl.streamlit.app/))**_
+_**[Team Project - Predicting Fraudulent Financial Transactions](https://nicoschuster01-finalproject-377-dashboard-ujqokl.streamlit.app/)**_
 
 <div style="text-align: center;">
     <img src="images/fraudielogo.jpeg?raw=true" width="500" height="300" style="margin: 0 auto; display: block;" />
