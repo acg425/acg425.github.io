@@ -28,7 +28,7 @@ _**[Team Project - Predicting Fraudulent Financial Transactions](https://nicosch
 <div style="text-align: center;">
     <img src="images/fraudielogo.jpeg?raw=true" width="500" height="300" style="margin: 0 auto; display: block;" />
 </div>
-<!-- Add an empty line -->
+<br> <!-- Add a line break -->
 
 For this project, we create a predictive model to detect fraud in financial service payments and transfers. Currently, there are many hurdles when it comes to fraud detection; many of the predictors are fallible and don't correctly predict whether a payment is actually fraudelent or not. The goal of this project will be to train several different machine learning models to detect fraud given the attributes: "payment_type", "amount", "nameOrig", "oldBalanceOrig", "namedDest", "isFlaggedFraud", "isFraud", among others.
 
@@ -43,7 +43,7 @@ _**[Success in Creating the North Penn High School Paintball Club](https://sites
 <div style="text-align: center;">
     <img src="images/theboylogo.png?raw=true" width="300" height="300" style="margin: 0 auto; display: block;" />
 </div>
-<!-- Add an empty line -->
+<br> <!-- Add a line break -->
 
 Assisted in the formation of the North Penn High School (NPHS) Paintball Club. This task involved using the business communication skills I learned at Lehigh University to provide the student reaching out with professional documents and graphical designs. These documents included several strategically thought-out and business-like proposals aimed at persuading the school board to accept the creation of the paintball club.
 
