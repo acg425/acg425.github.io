@@ -23,9 +23,15 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Team Project - Predicting Fraudulent Financial Transactions]([https://donbowen.github.io/teamproject/](https://nicoschuster01-finalproject-377-dashboard-ujqokl.streamlit.app/))**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fraudielogo.jpeg?raw=true"/>
+
+For this project, we create a predictive model to detect fraud in financial service payments and transfers. Currently, there are many hurdles when it comes to fraud detection; many of the predictors are fallible and don't correctly predict whether a payment is actually fraudelent or not. The goal of this project will be to train several different machine learning models to detect fraud given the attributes: "payment_type", "amount", "nameOrig", "oldBalanceOrig", "namedDest", "isFlaggedFraud", "isFraud", among others.
+
+After developing the machine learning model trained on the financial transaction data, it showed promising results in detecting fraudulent activity. By using techniques such as stratified sampling, data preprocessing, and hyperparameters, we were able to build a Random Forest classifier that achieved high accuracy (0.985) and precision (0.991) scores on the test set. However, the model still struggled with recall (0.8501), indicating that a significant portion of fraudulent transactions were missed. This highlights the inherent challenge of class imbalance in fraud detection, where fraudulent cases are relatively rare compared to legitimate transactions.
+
+We discovered moving forward, further efforts should be made to improve the model's recall performance, potentially through more advanced sampling methods or by incorporating additional relevant features. Additionally, the business implications of false positives versus false negatives should be carefully evaluated to strike the right balance between precision and recall based on the specific requirements of a financial institution. Overall, this project demonstrates the potential of machine learning in enhancing fraud detection capabilities, while also emphasizing the need for continuous model refinement.
 
 ---
 
