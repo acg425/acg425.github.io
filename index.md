@@ -64,7 +64,7 @@ Currently, I am seeking opportunities that will allow me to implement my financi
 
 Outside of my academic life, I love spending time oudoors. Specifically, modifying cars, biking, rafting, and going on hiking trips.
 
-Additionally, I find it extremely rewarding working as a firefighter in my local township.
+Additionally, I find it extremely rewarding working as a firefighter in my local township, volunteering as a Peer Health Advisor on campus, as well as working as a treasurer for Lehigh University EMS.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
