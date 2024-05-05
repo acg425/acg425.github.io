@@ -8,12 +8,6 @@ Majors: Finance & Business Analytics
 
 Minor: Data Science
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/profile.png" width="50%">
-</p>
-
 ---
 
 ## Portfolio
