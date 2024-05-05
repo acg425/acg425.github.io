@@ -19,7 +19,9 @@ _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
 <iframe src="https://nbviewer.jupyter.org/url/path/to/notebook.ipynb" width="100%" height="600"></iframe>
+<br> <!-- Add a line break -->
 
+The purpose of this assignment was to conduct sentiment analysis on the S&P500 companies. This was done by pulling data from downloaded 10K filings off of SEC Edgar. Once this was done, the data was cleaned. Afterwards, I imported the given dictionaries (LM and ML) and also created my own small one for 3 other topics. this made for 5 different variables each having their own positive and negative versions. The additional topics were regulatory compliance, social impact, and innovation/technology. After this was done, I looped this code to run through all download firm 10Ks. From there I conducted analysis based on the correlation between the sentiment of a firm and its returns.
 
 ---
 
